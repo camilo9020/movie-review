@@ -1,5 +1,5 @@
 == Movie Review App
 
-An app to post movies (Complete CRUD), review and vote them with stars, also has basic authentica with devise.
+An app to post movies (Complete CRUD), review and vote them with stars, also has basic authenticate with Devise.
 
-heroku url deploy: 
+heroku url deploy: https://movie-review-jch.herokuapp.com/
